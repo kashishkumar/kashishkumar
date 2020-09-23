@@ -12,7 +12,7 @@ I believe that my strongest attributes are intuitive thinking, the ability to un
 - 📫 How to reach me: 
     [LinkedIn](https://www.linkedin.com/in/kashishkumar)
     [Email](https://www.google.com)
-    [Blog](https://medium.com/@kashishk)
+    [Personal Website](https://kashishkumar.com)
 - ⚡ Fun fact: I'm a polymath and an INTJ
 
 <!--
