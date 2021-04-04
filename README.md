@@ -4,15 +4,14 @@ I am a recent engineering graduate with masters from IIT Madras currently workin
 
 I believe that my strongest attributes are intuitive thinking, the ability to understand from different perspectives and an independent self-drive to work on valuable and interesting things. I am a curious polymath seeking to apply ideas from one field to the other by working in unexplored intersections.
 
-- 🔭 I’m currently working on Face Recognition, Artificial Intelligence
-- 🌱 I’m currently learning Natural Language Processing
+- 🔭 I’m currently working on Online Course Creation on AI & ML at upGrad
 - 👯 I’m looking to collaborate on online teaching, mentoring, content creation related to Data Science and AI
 - 🤔 I’m looking for help with finding a new job
 - 💬 Ask me about Artificial Intelligence, Programming, Structural Engineering, Books, Yoga
 - 📫 How to reach me: 
     [LinkedIn](https://www.linkedin.com/in/kashishkumar)
     [Email](https://www.google.com)
-    [Personal Website](https://kashishkumar.com)
+    [Personal Website](https://www.kashishkumar.com)
 - ⚡ Fun fact: I'm a polymath and an INTJ
 
 <!--
