@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-I am a recent engineering graduate with masters from IIT Madras currently working on facial recognition at IDrive Inc, as a part of the Artificial Intelligence team. During my masters, my research was on an interdisciplinary project applying machine learning to improve the structural optimization process which led me to the field of Artificial Intelligence and Data Science. My areas of interest include machine learning, structural engineering, sustainability, and personal finance along with some economics.
+Senior Associate at upGrad | IIT Madras | PEC Chandigarh. 
+
+During my masters, my research was on an interdisciplinary project applying machine learning to improve the structural optimization process which led me to the field of Artificial Intelligence and Data Science. My areas of interest include machine learning, structural engineering, sustainability, and personal finance along with some economics.
 
 I believe that my strongest attributes are intuitive thinking, the ability to understand from different perspectives and an independent self-drive to work on valuable and interesting things. I am a curious polymath seeking to apply ideas from one field to the other by working in unexplored intersections.
 
