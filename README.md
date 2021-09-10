@@ -2,6 +2,8 @@
 
 Senior Associate at upGrad | IIT Madras | PEC Chandigarh. 
 
+I'm currently working as a Senior Associate at upGrad in the space of online course creation related to AI and Data Science. I write, teach, mentor and code. I'm also an avid reader, content creator and have a personal blog where I write about personal development and shares other educational content.
+
 During my masters, my research was on an interdisciplinary project applying machine learning to improve the structural optimization process which led me to the field of Artificial Intelligence and Data Science. My areas of interest include machine learning, structural engineering, sustainability, and personal finance along with some economics.
 
 I believe that my strongest attributes are intuitive thinking, the ability to understand from different perspectives and an independent self-drive to work on valuable and interesting things. I am a curious polymath seeking to apply ideas from one field to the other by working in unexplored intersections.
