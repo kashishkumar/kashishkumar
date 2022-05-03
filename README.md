@@ -1,8 +1,10 @@
 ### Hi there 👋
 
-Senior Associate at upGrad | IIT Madras | PEC Chandigarh. 
+Data Scientist at Vaya | Fintech Startup | IIT Madras | PEC Chandigarh. 
 
-I'm currently working as a Senior Associate at upGrad in the space of online course creation related to AI and Data Science. I write, teach, mentor and code. I'm also an avid reader, content creator and have a personal blog where I write about personal development and shares other educational content.
+I'm currently working as a Data Scientist and also taking care of backend engineering at Vaya which is a fintech startup focusing on providing credit to platform based small businesses in United States. 
+
+I worked as a Senior Associate at upGrad in the space of online course creation related to AI and Data Science. I write, teach, mentor and code. I'm also an avid reader, content creator and have a personal blog where I write about personal development and shares other educational content.
 
 During my masters, my research was on an interdisciplinary project applying machine learning to improve the structural optimization process which led me to the field of Artificial Intelligence and Data Science. My areas of interest include machine learning, structural engineering, sustainability, and personal finance along with some economics.
 
