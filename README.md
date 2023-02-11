@@ -1,8 +1,10 @@
 ### Hi there 👋
 
-Data Scientist at Vaya | Fintech Startup | IIT Madras | PEC Chandigarh. 
+Data Scientist at ExxonMobil | Computer Vision | IIT Madras | PEC Chandigarh. 
 
-I'm currently working as a Data Scientist and also taking care of backend engineering at Vaya which is a fintech startup focusing on providing credit to platform based small businesses in United States. 
+I'm currently working as a Data Scientist at ExxonMobil in the Modelling Optimisation and Data Science team. I'm working on a computer vision project of detecting industrial equipment and classifying them based on their corrosion damage levels. 
+
+Prior to that I was working as a Data Scientist and also taking care of backend engineering at Vaya which is a fintech startup focusing on providing credit to platform based small businesses in United States. 
 
 I worked as a Senior Associate at upGrad in the space of online course creation related to AI and Data Science. I write, teach, mentor and code. I'm also an avid reader, content creator and have a personal blog where I write about personal development and shares other educational content.
 
