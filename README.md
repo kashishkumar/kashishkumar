@@ -12,7 +12,7 @@ During my masters, my research was on an interdisciplinary project applying mach
 
 I believe that my strongest attributes are intuitive thinking, the ability to understand from different perspectives and an independent self-drive to work on valuable and interesting things. I am a curious polymath seeking to apply ideas from one field to the other by working in unexplored intersections.
 
-- 🔭 I’m currently working on Online Course Creation on AI & ML at upGrad
+- 🔭 I’m currently working as a Data Scientist at ExxonMobil
 - 👯 I’m looking to collaborate on online teaching, mentoring, content creation related to Data Science and AI
 - 🤔 I’m looking for help with finding a new job
 - 💬 Ask me about Artificial Intelligence, Programming, Structural Engineering, Books, Yoga
