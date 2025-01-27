@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-Data Scientist at ExxonMobil | Computer Vision | IIT Madras | PEC Chandigarh. 
+Senior Data Scientist at TrueFoundry | GenAI and NLP | IIT Madras | PEC Chandigarh
 
-I'm currently working as a Data Scientist at ExxonMobil in the Modelling Optimisation and Data Science team. I'm working on a computer vision project of detecting industrial equipment and classifying them based on their corrosion damage levels. 
+I was working as a Data Scientist at ExxonMobil in the Modelling Optimisation and Data Science team. I'm working on a computer vision project of detecting industrial equipment and classifying them based on their corrosion damage levels. 
 
 Prior to that I was working as a Data Scientist and also taking care of backend engineering at Vaya which is a fintech startup focusing on providing credit to platform based small businesses in United States. 
 
